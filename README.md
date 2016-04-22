@@ -21,7 +21,7 @@ The SSAS Model also supports row level security with rules derived from the sour
 The following software must be available:
 * A Power BI Pro subscription.
 * Salesforce data source requirements:
-  * An [Informatica account](https://www.informatica.com/).
+  * An [Informatica account](https://www.informatica.com/infaforpowerbi).
   * An on premise [Informatica Agent](https://network.informatica.com/docs/DOC-14954).
   * Microsoft Visual C++ 2008 Redistributable Package (x64) is required.
 * Dynamics CRM data source requirements:
@@ -120,7 +120,7 @@ __Congratulations__ - you have successfully deployed the solution template!
 The following software must be available:
 * A Power BI Pro subscription.
 * Salesforce data source requirements:
-  * An [Informatica account](https://www.informatica.com/).
+  * An [Informatica account](https://www.informatica.com/infaforpowerbi).
   * An on premise [Informatica Agent](https://network.informatica.com/docs/DOC-14954).
   * Microsoft Visual C++ 2008 Redistributable Package (x64) is required.
 * Dynamics CRM data source requirements:
