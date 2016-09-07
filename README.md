@@ -12,7 +12,7 @@ __Option 2 - SSAS Model__
 
 With this approach, the data and model reside in an instance of SQL Server Analysis Services separate from Power BI. This is recommended when data volumes exceed the 250MB limit or when performance requirements exceed what Power BI can provide.
 
-The SSAS Model also supports row level security with rules derived from the source application (this feature will be supported in the Power BI Model in the summer of 2016).
+The SSAS Model also supports row level security with rules derived from the source application.
 
 ## Option 1 - Power BI Model
 
